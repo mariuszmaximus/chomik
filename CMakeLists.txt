@@ -86,3 +86,5 @@ install(PROGRAMS http_chomik DESTINATION bin)
 
 endif()
 
+add_subdirectory(examples)
+
